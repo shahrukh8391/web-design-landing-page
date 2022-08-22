@@ -1,4 +1,4 @@
-## ⭐ Law Home Page Project 03 ⭐
+## ⭐ Law Home Page Project 08 ⭐
 
 This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
 <br>
