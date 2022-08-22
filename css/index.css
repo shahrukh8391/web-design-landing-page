@@ -1,0 +1,138 @@
+nav
+{
+    margin-left: 4cm;
+    margin-top: 1cm;
+    margin-right: 5cm;
+}
+
+.nav-items
+{
+    margin-left: 10cm;
+    margin-top: -1cm;
+}
+
+.nav-item
+{
+    position: relative;
+    display: inline;
+    margin-right: 1cm;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    font-size: 15px;
+    color:#24295B;
+    src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+.signin-btn
+{
+    float: right;
+    margin-top: -0.5cm;
+    position:relative;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    border: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+    border-radius: 1cm;
+    background-color:hwb(289 20% 57%);
+    color: whitesmoke;
+    src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+.intro-section > .left-section
+{
+    margin-left: 4cm;
+    margin-top: 5cm;
+} 
+
+.left-section h1
+{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-size: 1.8cm;
+  color:#4E99F9;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+.left-section h4
+{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-size: 15px;
+  margin-right: 10in;
+  color:#24295B;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+.intro-img
+{
+    float: right;
+    margin-top: -18cm;
+    margin-right: 3.5cm;
+    height: 17cm;
+    position: relative;
+}
+
+.vector-img
+{
+    margin-bottom: 2cm;
+    margin-left: 17cm;
+}
+
+.vector-dot
+{
+    margin-bottom: 4cm;
+    margin-left: -1.2cm;
+}
+
+.backcover-img
+{
+    float: right;
+    margin-top: -24.5cm;
+    margin-right: -1.7cm;
+    width: 25.5cm;
+    height: 22.5cm;
+}
+
+.learn-more-btn
+{
+
+margin-top: 1.5cm;
+position:relative;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+padding-left: 40px;
+padding-right: 40px;
+padding-top: 10px;
+border: none;
+background-blend-mode:overlay;
+padding-bottom: 10px;
+font-size: 22px;
+border-radius: 1cm;
+background-color:hwb(289 35% 35%);
+color: whitesmoke;
+src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+
+
+
+
